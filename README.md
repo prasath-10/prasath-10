@@ -10,7 +10,7 @@
 ## 🚀 About Me  
 - 🎓 Currently pursuing **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**  
 - 🤝 Love to interact and collaborate  
-- 💻 Focusing on **DSA (Striver A2Z)** and **MERN Stack**  
+- 💻 Focusing on **DSA ** and **MERN Stack**  
 
 ---
 
